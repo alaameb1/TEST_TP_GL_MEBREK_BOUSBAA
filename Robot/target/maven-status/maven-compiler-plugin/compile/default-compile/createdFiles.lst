@@ -1,0 +1,8 @@
+com\emp\gl\tp\robot\StateIndicator.class
+com\emp\gl\tp\robot\BottomState.class
+com\emp\gl\tp\robot\Position.class
+com\emp\gl\tp\robot\TopState.class
+com\emp\gl\tp\robot\IState.class
+com\emp\gl\tp\robot\IRobot.class
+com\emp\gl\tp\robot\RightState.class
+com\emp\gl\tp\robot\LeftState.class
